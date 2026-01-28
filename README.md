@@ -38,6 +38,4 @@ Projects will be added and pinned here as I build them.
 
 GitHub: https://github.com/ziad-akmal
 
-⭐ This profile will grow over time as I learn and build.## Hi there 👋
-
--->
+⭐ This profile will grow over time as I learn and build.
